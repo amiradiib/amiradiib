@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Amir👋
+---------
+<i class="ri-instagram-line"></i>
 
+I'm Amir Adib, a passionate self-tought front-end web developer and freelance software engineer from Iran.
 <!--
 **amiradiib/amiradiib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
